@@ -1,0 +1,240 @@
+{
+    "quotationId": 1832512,
+    "packageName": null,
+    "quotationName": "INESTABILIDAD DE RODILLA POR VIA ARTOSCO + MENISCECTOMIA",
+    "quotationEmailContact": "demo@keiron.cl",
+    "quotationType": "Convencional",
+    "totalClinic": 1083721,
+    "totalHmq": 900000,
+    "totalQuotation": 1983721,
+    "totalDiscounts": 0,
+    "totalQuotationWithDiscounts": 1983721,
+    "quotationInfo": {
+    "medicalOrderOrigin": "Web",
+    "surgeryDate": "2022-09-23T17:21:47.000Z",
+    "startDateQuotation": "2022-08-24T18:21:47.000Z",
+    "endDateQuotation": "2022-09-23T17:21:47.000Z",
+    "finishDate": "2022-08-24T18:30:01.000Z"
+    },
+    "mainService": {
+    "code": "21-04-156-01",
+    "integrationId": "ASJ4G31GKAFDPOEW",
+    "name": "INESTABILIDAD DE RODILLA POR VIA ARTOSCO"
+    },
+    "patient": {
+    "patientIdentifier": "Rut:",
+    "patientRut": "3-5",
+    "firstName": "NOMBRE",
+    "secondName": "",
+    "lastName": "APELLIDO 1",
+    "motherLastName": "APELLIDO 2",
+    "birthDate": "1975-12-11T03:00:00.000Z",
+    "address": "TEST",
+    "city": "PROVIDENCIA",
+    "email": "FRED@KEIRON.CL",
+    "phoneNumber": "999999999",
+    "secondPhoneNumber": null,
+    "insuranceId":30501,
+    "insuranceName": "COLMENA GOLDEN CROSS S.A.",
+    "agreementName": "PREFERENTE COLMENA",
+    "agreementId": "E54BG34CH42"
+    },
+    "createdBy": {
+    "name": "Demo Keirón",
+    "email": "demo@keiron.cl",
+    "emailGeneric": null,
+    "phoneNumber": null,
+    "rut": "1-9"},
+    "medicalTeam": [
+    {
+    "rut": "3-5",
+    "name": "REFERENCIAL STAFF(Staff) "
+    }
+    ],
+    "services": [
+    {
+    "code": "21-04-156-01",
+    "name": "INESTABILIDAD DE RODILLA POR VIA ARTOSCO",
+    "guarismo": 9,
+    "value": 332313,
+    "amount": 1,
+    "totalValue": 332313,
+    "isForChild": null,
+    "hasCustomPrice": null,
+    "serviceProvisionGroupName": "Traumatología",
+    "partNumber": null,
+    "optionBed": null,
+    "providerRut": null
+    },
+    {
+    "code": "21-04-159-00",
+    "name": "MENISCECTOMIA U OTRAS INTERVENCIONES POR",
+    "guarismo": 6,
+    "value": 196261,
+    "amount": 0.5,
+    "totalValue": 98130.5,
+    "isForChild": null,
+    "hasCustomPrice": null,
+    "serviceProvisionGroupName": "Traumatología",
+    "partNumber": null,
+    "optionBed": null,
+    "providerRut": null
+    },
+    {
+    "code": "02-01-001-00",
+    "name": "DC INTEGRAL CUIDADOS BÁSICOS INDIVIDUAL",
+    "guarismo": 0,
+    "value": 166086,
+    "amount": 1,
+    "totalValue": 166086,
+    "isForChild": false,
+    "hasCustomPrice": null,
+    "serviceProvisionGroupName": "Días Cama",
+    "partNumber": null,
+    "optionBed": 0,
+    "providerRut": null
+    },
+    {
+    "code": "03-01-034-00",
+    "name": "GRUPOS SANGUINEOS AB0 Y RHO (INCLUYE EST",
+    "guarismo": 0,"value": 3292,
+    "amount": 1,
+    "totalValue": 3292,
+    "isForChild": false,
+    "hasCustomPrice": null,
+    "serviceProvisionGroupName": "Exámenes de Laboratorio",
+    "partNumber": null,
+    "optionBed": null,
+    "providerRut": null
+    },
+    {
+    "code": "07-02-207-00",
+    "name": "DETECCIÓN DE ANTICUERPOS IRREGULARES ERI",
+    "guarismo": 0,
+    "value": 5273,
+    "amount": 1,
+    "totalValue": 5273,
+    "isForChild": false,
+    "hasCustomPrice": null,
+    "serviceProvisionGroupName": "Medicina Transfusional",
+    "partNumber": null,
+    "optionBed": null,
+    "providerRut": null
+    }
+    ],
+    "estimated": [
+    {
+    "name": "Materiales Clínicos Estimativos",
+    "value": 1957394
+    },
+    {
+    "name": "Medicamentos Estimativos",
+    "value": 178965
+    }
+    ],
+    "others": [],
+    "supplies": [
+    {
+    "name": "Protesis rodilla, X0203",
+    "observation": null,
+    "code": null,
+    "amount": 1,
+    "value": 1899000,
+    "totalValue": 1899000
+    }
+    ],
+    "hmq": [
+    {
+    "value": 410502,
+    "name": "1er CIRUJANO",
+    "code": "21-04-156-01"
+    },
+    {
+    "value": 238092,
+    "name": "1er CIRUJANO",
+"code": "21-04-159-00"
+},
+{
+"value": 102626,
+"name": "2do CIRUJANO",
+"code": "21-04-156-01"
+},
+{
+"value": 59523,
+"name": "2do CIRUJANO",
+"code": "21-04-159-00"
+},
+{
+"value": 82101,
+"name": "3er CIRUJANO",
+"code": "21-04-156-01"
+},
+{
+"value": 82101,
+"name": "ANESTESISTA",
+"code": "21-04-156-01"
+},
+{
+"value": 71428,
+"name": "ANESTESISTA",
+"code": "21-04-159-00"
+},
+{
+"value": 41050,
+"name": "ARSENALERA",
+"code": "21-04-156-01"
+},
+{
+"value": 23809,
+"name": "ARSENALERA",
+"code": "21-04-159-00"
+}
+],
+"observations": [
+{
+"content": "Este presupuesto es referencial, estimativo y puede..."
+},
+{
+"content": "En especial los ítems de insumos y medicamentos..."
+},
+{
+"content": "Este presupuesto solo considera los ítems indic..."
+},
+{
+"content": "Será responsabilidad del paciente..."
+},
+{
+"content": "La institución no realiza reserva de habitación..."
+},
+{
+"content": "Para efectos de obtener cobertura hospitalaria..."
+},
+{
+"content": "La vigencia de este presupuesto es de 30..."
+},
+{
+"content": "El valor total a pagar por el paciente se encuentra..."
+},
+{
+"content": "Al momento de la admisión se le solicitará..."
+}
+],
+"medicalOrderUrl": null,
+"discountTotals": {
+"clinic": 0,
+"hmq": 0
+},
+"copaymentAmount": null,
+"copaymentHmqAmount": null,
+"simulatedCopayment": null,
+"coverageAmount": 0,
+"crmInfo": {
+"status": "Perdidos",
+"subStatus": "Otro",
+"observation": "Paciente no contesta",
+"totalSendedWhatsApps": 5,
+"totalSendedEmails": 0,
+"lastContact": "2022-08-24T18:30:01.000Z",
+"totalActiveNotifications": 0
+}
+}
